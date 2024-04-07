@@ -11,8 +11,6 @@
 # Introduction
 Probando
 
-Prueba 2
-
 prueba 3
 ultima
 WebGoat is a deliberately insecure web application maintained by [OWASP](http://www.owasp.org/) designed to teach web
